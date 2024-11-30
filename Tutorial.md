@@ -1,3 +1,5 @@
+# Automating Google Form Submissions with Scripts
+## Xây dựng script để tự động gửi được số lượng lớn phiếu trả lời trong Google Form
 1. Đầu tiên là xác định form của mình như thế nào ?
    - Có bao nhiều phần, các phần sẽ được điền nhưu thế nào (điền text hay lựa chọn duy nhất hay lựa chọn nhiều,...)
    - Logic của form : Ví dụ tại 1 câu hỏi nào đó, lựa chọn 1 sẽ rẽ một hướng, lựa chọn 2 sẽ rẽ một hướng khác,... hoặc lựa chọn 1 sẽ cho người dùng tiếp tục điền form, lựa chọn 2 sẽ khiến form kết thúc,....
@@ -184,4 +186,6 @@ Sau khi có đoạn code này thì lưu lại, mở terminal tại nơi chứa f
    - Từ form, nhấn 3 chấm chọn **<>Script editor**
    - Ta được chuyển sang Google Apps Script, đưa script đã viết vào và chạy, với lần chạy đầu tiên sẽ bị yêu cầu cấp quyền, nó sẽ báo nguy hiểm hay gì đó nhưng ta cứ tiếp tục cho nó chạy: Advance -> ... unsafe.... ->...
    - Chờ mã chạy xong 
-   - **CHÚ Ý**: Script chỉ chạy được trong 6p, nên có thể trong 6p đó nó không thể xử lý được hết số lượng phiếu trả lời mà ta muốn, nên lựa vào tình hình, nó kết thúc ở đâu, đã gửi được bao nhiêu phiếu thì ta xóa đi bằng đấy phiếu ở bên sheet và tiếp tục chạy lại script để nó gửi tiếp các phiếu mới,cứ lặp lại như vậy.
+   - **CHÚ Ý**: Script chỉ chạy được trong 6p, nên có thể trong 6p đó nó không thể xử lý được hết số lượng phiếu trả lời mà ta muốn, nên lựa vào tình hình, nó kết thúc ở đâu, đã gửi được bao nhiêu phiếu thì ta xóa đi bằng đấy phiếu ở bên sheet và tiếp tục chạy lại script để nó gửi tiếp các phiếu mới, cứ lặp lại như vậy.
+7. Đôi điều
+    - Vẫn còn khá nhiều hạn chế trong code và thời gian + số lượng phiếu được gửi đi, mình sẽ tìm cách tối ưu, cải thiện hơn
