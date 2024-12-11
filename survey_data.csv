@@ -1,0 +1,202 @@
+Giới tính của bạn,Độ tuổi của bạn,Bạn đã làm việc tại công ty bao nhiêu năm,Bộ phận làm việc của bạn,Bạn tương tác với những loại ứng dụng AI nào trong công việc hàng ngày của mình,Hãy đánh giá hiệu quả của các công cụ AI như thế nào trong việc giúp bạn hoàn thành nhiệm vụ của mình,Các công cụ AI giúp bạn đạt được mục tiêu công việc theo những cách nào,Tăng hiệu quả công việc,Tiết kiệm thời gian,Giảm thiểu lỗi và cải thiện độ chính xác,Hỗ trợ đưa ra các quyết định nhanh chóng,Giao diện khó sử dụng,Khó tận dụng hết tính năng,Khó diễn giải kết quả,Phụ thuộc dữ liệu đầu vào,Thiếu sự linh hoạt,Khó khăn trong việc học sử dụng,Quyền riêng tư dữ liệu,Đạo đức hoặc tuân thủ quy định,Khả năng tối ưu công việc,Nhóm hoặc ban lãnh đạo của mình hỗ trợ bạn giải quyết các thách thức liên quan đến AI như thế nào,Bạn tin rằng hành động nào sẽ cải thiện hiệu quả nhất của các công cụ AI trong công việc của bạn
+Nữ,18-34,1-3 năm,Nhân sự,Trò chuyện với chatbot và hỗ trợ khách hàng,Kém hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,1,3,4,5,5,5,3,5,4,2,4,3,Không ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nữ,18-34,6-9 năm,Nhân sự,Khác,Hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,2,5,4,2,3,3,5,5,3,4,2,3,4,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,18-34,3-6 năm,Marketing,Phân tích dự đoán,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,3,5,3,1,2,2,3,4,5,4,3,3,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,18-34,3-6 năm,Nhân sự,Học máy để phân tích dữ liệu,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,5,5,3,2,3,3,4,1,4,1,1,5,3,Ủng hộ,Tăng ngân sách bảo trì AI
+Nữ,35-44,1-3 năm,Công nghệ thông tin,Phân tích dự đoán,Rất hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,1,2,3,3,5,5,4,5,4,3,3,4,2,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,35-44,6-9 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,1,1,3,3,3,3,4,5,3,4,4,2,4,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,35-44,6-9 năm,Khác,Học máy để phân tích dữ liệu,Trung bình,Cải thiện hiệu quả,2,2,2,5,1,3,1,1,4,4,5,2,5,Trung lập,Tăng ngân sách bảo trì AI
+Nữ,18-34,1-3 năm,Tài chính,Tự động hóa quy trình (RPA),Trung bình,Giảm khối lượng công việc thủ công,5,4,2,5,2,3,5,4,5,1,4,2,2,Trung lập,Cung cấp đào tạo bổ sung
+Nam,18-34,hơn 9 năm,Marketing,Tự động hóa quy trình (RPA),Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,5,5,2,2,5,2,5,3,3,1,4,4,3,Trung lập,Đầu tư vào các công cụ AI tốt hơn
+Nữ,45 tuổi trở lên,1-3 năm,Khác,Phân tích dự đoán,Trung bình,Giảm khối lượng công việc thủ công,5,2,1,2,4,5,3,2,3,2,2,2,2,Không ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,35-44,6-9 năm,Tài chính,Phân tích dự đoán,Trung bình,Cung cấp thông tin chi tiết dựa trên dữ liệu,1,5,3,2,3,2,5,3,5,3,2,4,5,Không ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,18-34,hơn 9 năm,Tài chính,Học máy để phân tích dữ liệu,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,2,2,3,2,4,4,2,4,3,5,5,3,Không ủng hộ,Cung cấp đào tạo bổ sung
+Nam,35-44,1-3 năm,Công nghệ thông tin,Trò chuyện với chatbot và hỗ trợ khách hàng,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,3,3,5,1,3,3,2,2,2,5,5,4,Trung lập,Đầu tư vào các công cụ AI tốt hơn
+Nữ,35-44,3-6 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Rất hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,5,2,2,4,4,1,5,2,5,2,4,5,2,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nữ,35-44,1-3 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,2,2,2,2,4,3,1,2,2,2,5,5,Trung lập,Tăng ngân sách bảo trì AI
+Nữ,35-44,1-3 năm,Khác,Phân tích dự đoán,Trung bình,Cung cấp thông tin chi tiết dựa trên dữ liệu,1,3,4,5,2,2,3,2,4,4,2,4,2,Trung lập,Cải thiện chất lượng dữ liệu
+Nữ,45 tuổi trở lên,hơn 9 năm,Tài chính,Khác,Kém hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,2,4,3,4,4,3,3,5,2,3,2,5,1,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,18-34,1-3 năm,Nhân sự,Tự động hóa quy trình (RPA),Rất kém hiệu quả,Cải thiện hiệu quả,2,3,3,3,5,3,2,4,3,3,1,2,3,Ủng hộ,Tăng ngân sách bảo trì AI
+Nam,45 tuổi trở lên,3-6 năm,Marketing,Nhận dạng hình ảnh hoặc giọng nói,Trung bình,Cung cấp thông tin chi tiết dựa trên dữ liệu,3,5,5,2,4,3,4,5,5,4,1,5,4,Trung lập,Đầu tư vào các công cụ AI tốt hơn
+Nam,35-44,3-6 năm,Marketing,Trò chuyện với chatbot và hỗ trợ khách hàng,Rất kém hiệu quả,Cải thiện hiệu quả,1,4,4,3,3,2,2,5,1,3,3,2,5,Không ủng hộ,Khác
+Nam,35-44,hơn 9 năm,Nhân sự,Trò chuyện với chatbot và hỗ trợ khách hàng,Trung bình,Cải thiện hiệu quả,1,5,2,4,5,5,3,4,1,3,2,4,1,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nữ,18-34,hơn 9 năm,Tài chính,Tự động hóa quy trình (RPA),Trung bình,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,5,3,4,5,3,2,5,4,3,5,5,5,3,Trung lập,Khác
+Nam,35-44,1-3 năm,Tài chính,Trò chuyện với chatbot và hỗ trợ khách hàng,Hiệu quả,Giảm khối lượng công việc thủ công,5,4,4,4,4,3,2,3,3,2,1,4,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,35-44,1-3 năm,Nhân sự,Tự động hóa quy trình (RPA),Hiệu quả,Giảm khối lượng công việc thủ công,2,3,3,3,3,3,3,3,3,5,2,3,5,Trung lập,Cải thiện chất lượng dữ liệu
+Nữ,35-44,6-9 năm,Khác,Nhận dạng hình ảnh hoặc giọng nói,Kém hiệu quả,Cải thiện hiệu quả,3,1,5,3,3,3,2,3,5,5,3,3,5,Ủng hộ,Cung cấp đào tạo bổ sung
+Nam,35-44,6-9 năm,Nhân sự,Học máy để phân tích dữ liệu,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,2,1,4,4,5,2,3,3,2,5,4,4,3,Ủng hộ,Cung cấp đào tạo bổ sung
+Nữ,35-44,3-6 năm,Tài chính,Học máy để phân tích dữ liệu,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,2,2,1,4,1,3,2,3,2,3,5,2,Không ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,18-34,1-3 năm,Nhân sự,Trò chuyện với chatbot và hỗ trợ khách hàng,Kém hiệu quả,Cải thiện hiệu quả,4,2,2,2,1,3,5,3,4,2,1,3,4,Trung lập,Tăng cường giám sát và trách nhiệm giải trình
+Nữ,18-34,hơn 9 năm,Khác,Phân tích dự đoán,Kém hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,5,3,5,3,3,3,2,5,3,3,2,5,2,Không ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,35-44,1-3 năm,Marketing,Nhận dạng hình ảnh hoặc giọng nói,Rất hiệu quả,Giảm khối lượng công việc thủ công,3,2,5,2,2,1,3,3,4,3,3,3,4,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nam,35-44,hơn 9 năm,Nhân sự,Học máy để phân tích dữ liệu,Rất hiệu quả,Cải thiện hiệu quả,2,4,1,2,3,2,1,3,2,5,3,2,4,Ủng hộ,Tăng ngân sách bảo trì AI
+Nữ,45 tuổi trở lên,1-3 năm,Nhân sự,Trò chuyện với chatbot và hỗ trợ khách hàng,Kém hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,4,5,3,1,4,2,5,5,2,3,4,1,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nữ,35-44,1-3 năm,Tài chính,Khác,Hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,2,2,2,5,3,3,3,2,3,3,2,4,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,45 tuổi trở lên,hơn 9 năm,Tài chính,Phân tích dự đoán,Kém hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,3,4,4,1,1,4,2,2,2,3,2,5,2,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,45 tuổi trở lên,hơn 9 năm,Nhân sự,Tự động hóa quy trình (RPA),Kém hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,2,3,2,2,2,2,1,5,2,2,1,4,3,Ủng hộ,Khác
+Nữ,35-44,1-3 năm,Khác,Học máy để phân tích dữ liệu,Trung bình,Cải thiện hiệu quả,3,2,4,3,3,2,3,2,5,2,4,4,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,18-34,1-3 năm,Tài chính,Học máy để phân tích dữ liệu,Kém hiệu quả,Giảm khối lượng công việc thủ công,2,5,4,5,4,5,2,1,2,3,3,2,5,Không ủng hộ,Tăng ngân sách bảo trì AI
+Nam,35-44,1-3 năm,Nhân sự,Phân tích dự đoán,Rất hiệu quả,Cải thiện hiệu quả,3,5,3,2,4,5,2,5,2,2,4,2,2,Không ủng hộ,Cung cấp đào tạo bổ sung
+Nữ,35-44,3-6 năm,Công nghệ thông tin,Trò chuyện với chatbot và hỗ trợ khách hàng,Rất hiệu quả,Cải thiện hiệu quả,5,5,3,3,1,4,2,1,5,5,3,4,2,Không ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,18-34,1-3 năm,Công nghệ thông tin,Phân tích dự đoán,Trung bình,Cải thiện hiệu quả,3,5,3,3,4,5,4,2,5,5,1,2,1,Ủng hộ,Khác
+Nam,35-44,1-3 năm,Khác,Nhận dạng hình ảnh hoặc giọng nói,Kém hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,3,3,5,2,4,4,3,2,3,2,5,4,5,Trung lập,Cải thiện chất lượng dữ liệu
+Nữ,35-44,3-6 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Trung bình,Cung cấp thông tin chi tiết dựa trên dữ liệu,3,5,4,2,5,5,1,5,3,3,4,2,3,Ủng hộ,Tăng ngân sách bảo trì AI
+Nam,35-44,6-9 năm,Công nghệ thông tin,Khác,Hiệu quả,Cải thiện hiệu quả,3,5,1,5,3,3,2,2,5,3,3,3,5,Trung lập,Tăng ngân sách bảo trì AI
+Nam,18-34,3-6 năm,Nhân sự,Tự động hóa quy trình (RPA),Hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,4,4,5,3,5,5,3,4,2,4,1,5,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nữ,45 tuổi trở lên,3-6 năm,Tài chính,Học máy để phân tích dữ liệu,Kém hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,3,5,4,5,4,5,4,4,2,3,2,3,5,Ủng hộ,Khác
+Nam,35-44,1-3 năm,Công nghệ thông tin,Khác,Kém hiệu quả,Giảm khối lượng công việc thủ công,5,5,4,3,3,4,1,5,2,5,5,5,3,Không ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,18-34,1-3 năm,Công nghệ thông tin,Khác,Kém hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,3,4,5,5,1,4,3,3,4,2,4,4,3,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,18-34,1-3 năm,Tài chính,Phân tích dự đoán,Rất hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,3,3,3,5,2,2,4,1,1,2,2,4,5,Trung lập,Khác
+Nữ,35-44,3-6 năm,Tài chính,Phân tích dự đoán,Rất kém hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,3,3,5,3,4,5,4,1,3,5,3,4,Trung lập,Khác
+Nam,45 tuổi trở lên,1-3 năm,Tài chính,Nhận dạng hình ảnh hoặc giọng nói,Hiệu quả,Giảm khối lượng công việc thủ công,1,4,5,5,4,4,5,2,2,3,3,3,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,45 tuổi trở lên,6-9 năm,Nhân sự,Tự động hóa quy trình (RPA),Rất hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,3,3,4,1,4,4,3,3,5,5,3,2,2,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,18-34,3-6 năm,Khác,Nhận dạng hình ảnh hoặc giọng nói,Trung bình,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,1,5,2,2,3,4,2,3,3,2,5,2,5,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,45 tuổi trở lên,6-9 năm,Tài chính,Học máy để phân tích dữ liệu,Trung bình,Cung cấp thông tin chi tiết dựa trên dữ liệu,2,3,2,4,4,3,3,4,2,1,2,4,3,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,35-44,6-9 năm,Công nghệ thông tin,Học máy để phân tích dữ liệu,Kém hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,5,1,3,4,3,2,5,3,2,5,3,3,2,Trung lập,Khác
+Nam,18-34,1-3 năm,Tài chính,Học máy để phân tích dữ liệu,Rất kém hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,2,3,5,4,5,1,5,5,1,2,4,3,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,18-34,1-3 năm,Marketing,Khác,Rất kém hiệu quả,Cải thiện hiệu quả,4,3,3,3,3,1,5,5,3,5,2,2,4,Trung lập,Khác
+Nữ,18-34,3-6 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Trung bình,Cung cấp thông tin chi tiết dựa trên dữ liệu,3,4,5,4,3,5,2,2,3,3,2,1,5,Ủng hộ,Cung cấp đào tạo bổ sung
+Nam,45 tuổi trở lên,1-3 năm,Tài chính,Tự động hóa quy trình (RPA),Rất hiệu quả,Cải thiện hiệu quả,2,5,2,3,4,3,3,3,4,2,3,4,5,Ủng hộ,Cung cấp đào tạo bổ sung
+Nam,18-34,6-9 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Hiệu quả,Cải thiện hiệu quả,5,2,1,5,3,3,3,3,4,3,5,4,2,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,45 tuổi trở lên,3-6 năm,Tài chính,Khác,Rất hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,4,4,3,5,4,3,3,3,4,1,4,2,1,Ủng hộ,Khác
+Nam,35-44,6-9 năm,Tài chính,Tự động hóa quy trình (RPA),Trung bình,Cung cấp thông tin chi tiết dựa trên dữ liệu,3,3,1,4,3,5,3,1,3,4,4,5,4,Ủng hộ,Cung cấp đào tạo bổ sung
+Nam,35-44,3-6 năm,Marketing,Trò chuyện với chatbot và hỗ trợ khách hàng,Hiệu quả,Cải thiện hiệu quả,3,3,5,4,3,3,5,2,5,4,4,3,2,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,18-34,6-9 năm,Tài chính,Trò chuyện với chatbot và hỗ trợ khách hàng,Kém hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,1,2,3,4,3,2,1,3,3,3,4,3,2,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,35-44,1-3 năm,Công nghệ thông tin,Trò chuyện với chatbot và hỗ trợ khách hàng,Kém hiệu quả,Cải thiện hiệu quả,4,3,2,2,1,2,2,4,5,5,4,5,4,Trung lập,Cải thiện chất lượng dữ liệu
+Nữ,35-44,3-6 năm,Tài chính,Tự động hóa quy trình (RPA),Kém hiệu quả,Giảm khối lượng công việc thủ công,5,4,4,1,3,4,3,5,2,2,3,2,2,Trung lập,Cải thiện chất lượng dữ liệu
+Nữ,35-44,3-6 năm,Công nghệ thông tin,Trò chuyện với chatbot và hỗ trợ khách hàng,Kém hiệu quả,Cải thiện hiệu quả,1,3,3,3,2,2,2,3,3,2,5,3,5,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,18-34,hơn 9 năm,Khác,Nhận dạng hình ảnh hoặc giọng nói,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,2,5,2,1,2,5,2,5,4,5,3,3,2,Ủng hộ,Cung cấp đào tạo bổ sung
+Nam,18-34,1-3 năm,Tài chính,Học máy để phân tích dữ liệu,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,4,4,2,3,3,3,4,2,3,2,2,2,Không ủng hộ,Tăng ngân sách bảo trì AI
+Nữ,18-34,3-6 năm,Tài chính,Học máy để phân tích dữ liệu,Kém hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,3,5,3,2,2,2,5,4,3,4,2,4,2,Trung lập,Cải thiện chất lượng dữ liệu
+Nữ,35-44,hơn 9 năm,Khác,Học máy để phân tích dữ liệu,Kém hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,2,3,5,2,1,4,3,2,4,3,3,4,5,Không ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,18-34,1-3 năm,Marketing,Học máy để phân tích dữ liệu,Trung bình,Giảm khối lượng công việc thủ công,5,4,2,5,2,4,3,2,4,5,4,1,5,Trung lập,Cung cấp đào tạo bổ sung
+Nam,45 tuổi trở lên,hơn 9 năm,Nhân sự,Trò chuyện với chatbot và hỗ trợ khách hàng,Trung bình,Cung cấp thông tin chi tiết dựa trên dữ liệu,5,4,4,2,2,3,4,3,3,1,5,3,5,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,35-44,hơn 9 năm,Tài chính,Học máy để phân tích dữ liệu,Hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,4,5,2,5,2,1,3,5,5,4,1,2,2,Trung lập,Đầu tư vào các công cụ AI tốt hơn
+Nữ,18-34,hơn 9 năm,Tài chính,Trò chuyện với chatbot và hỗ trợ khách hàng,Hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,3,1,3,4,5,3,3,3,1,4,3,4,4,Ủng hộ,Cung cấp đào tạo bổ sung
+Nam,35-44,hơn 9 năm,Công nghệ thông tin,Khác,Trung bình,Cải thiện hiệu quả,3,3,5,4,3,4,4,5,3,3,5,5,1,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nữ,35-44,hơn 9 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,5,5,3,4,2,3,3,1,5,4,2,2,4,Không ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,18-34,3-6 năm,Nhân sự,Phân tích dự đoán,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,3,4,5,4,2,3,3,2,4,3,2,5,Không ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,35-44,hơn 9 năm,Nhân sự,Khác,Hiệu quả,Cải thiện hiệu quả,4,2,2,3,3,3,5,2,4,3,4,4,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,45 tuổi trở lên,hơn 9 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Rất hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,4,2,3,4,4,2,4,2,3,4,3,4,3,Không ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,18-34,hơn 9 năm,Khác,Học máy để phân tích dữ liệu,Kém hiệu quả,Cải thiện hiệu quả,3,3,3,3,4,3,3,1,3,5,2,2,3,Không ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,45 tuổi trở lên,3-6 năm,Công nghệ thông tin,Học máy để phân tích dữ liệu,Rất kém hiệu quả,Giảm khối lượng công việc thủ công,5,5,5,3,3,5,2,4,4,2,5,1,5,Không ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,35-44,1-3 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Trung bình,Cải thiện hiệu quả,4,1,3,3,5,5,3,5,3,3,4,2,3,Không ủng hộ,Cung cấp đào tạo bổ sung
+Nữ,18-34,1-3 năm,Tài chính,Trò chuyện với chatbot và hỗ trợ khách hàng,Trung bình,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,4,2,3,3,1,1,3,4,3,1,4,4,3,Ủng hộ,Cung cấp đào tạo bổ sung
+Nam,18-34,6-9 năm,Nhân sự,Phân tích dự đoán,Rất kém hiệu quả,Cải thiện hiệu quả,3,5,5,5,3,3,4,3,3,4,5,5,2,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,18-34,3-6 năm,Công nghệ thông tin,Khác,Rất kém hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,3,4,2,2,4,4,4,2,3,3,5,2,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,35-44,1-3 năm,Tài chính,Học máy để phân tích dữ liệu,Trung bình,Cải thiện hiệu quả,3,2,3,2,4,2,2,5,2,4,4,2,3,Ủng hộ,Tăng ngân sách bảo trì AI
+Nữ,45 tuổi trở lên,1-3 năm,Khác,Phân tích dự đoán,Rất kém hiệu quả,Cải thiện hiệu quả,1,4,2,5,4,4,2,4,2,3,4,2,4,Không ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,45 tuổi trở lên,3-6 năm,Marketing,Học máy để phân tích dữ liệu,Trung bình,Cải thiện hiệu quả,5,5,4,4,3,4,4,4,3,3,2,3,5,Ủng hộ,Cung cấp đào tạo bổ sung
+Nữ,35-44,6-9 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Kém hiệu quả,Cải thiện hiệu quả,2,3,4,4,2,2,4,1,5,2,3,3,3,Trung lập,Đầu tư vào các công cụ AI tốt hơn
+Nam,35-44,1-3 năm,Công nghệ thông tin,Khác,Rất kém hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,1,4,3,3,5,1,1,3,3,2,2,4,1,Không ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,35-44,1-3 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Trung bình,Cung cấp thông tin chi tiết dựa trên dữ liệu,4,5,4,1,5,4,2,2,4,4,2,3,1,Không ủng hộ,Cung cấp đào tạo bổ sung
+Nam,35-44,hơn 9 năm,Tài chính,Phân tích dự đoán,Kém hiệu quả,Giảm khối lượng công việc thủ công,4,1,1,3,2,4,3,4,4,5,2,2,3,Không ủng hộ,Khác
+Nữ,35-44,6-9 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Rất hiệu quả,Cải thiện hiệu quả,2,5,4,4,4,5,5,2,3,3,3,4,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nữ,18-34,1-3 năm,Công nghệ thông tin,Học máy để phân tích dữ liệu,Trung bình,Giảm khối lượng công việc thủ công,1,3,3,5,1,3,3,2,2,4,4,2,5,Trung lập,Tăng cường giám sát và trách nhiệm giải trình
+Nữ,18-34,1-3 năm,Tài chính,Nhận dạng hình ảnh hoặc giọng nói,Trung bình,Cải thiện hiệu quả,3,3,5,3,3,2,4,3,5,4,4,3,2,Ủng hộ,Khác
+Nam,18-34,hơn 9 năm,Khác,Nhận dạng hình ảnh hoặc giọng nói,Kém hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,4,1,3,5,4,3,3,3,5,5,1,3,3,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nữ,18-34,1-3 năm,Tài chính,Trò chuyện với chatbot và hỗ trợ khách hàng,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,5,5,5,2,1,4,2,2,3,4,5,5,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,18-34,hơn 9 năm,Nhân sự,Học máy để phân tích dữ liệu,Rất kém hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,3,3,3,4,1,4,3,4,3,3,3,5,1,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nam,18-34,1-3 năm,Khác,Nhận dạng hình ảnh hoặc giọng nói,Rất hiệu quả,Cải thiện hiệu quả,3,2,4,4,1,4,5,3,4,4,4,2,5,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nữ,35-44,6-9 năm,Tài chính,Học máy để phân tích dữ liệu,Rất kém hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,2,3,2,3,4,4,4,3,5,5,5,1,2,Không ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,18-34,hơn 9 năm,Khác,Trò chuyện với chatbot và hỗ trợ khách hàng,Rất hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,1,5,4,1,5,3,2,2,3,1,4,5,3,Ủng hộ,Khác
+Nữ,18-34,1-3 năm,Nhân sự,Nhận dạng hình ảnh hoặc giọng nói,Trung bình,Cải thiện hiệu quả,3,3,4,1,3,1,3,3,3,3,3,5,2,Ủng hộ,Cung cấp đào tạo bổ sung
+Nam,35-44,3-6 năm,Khác,Trò chuyện với chatbot và hỗ trợ khách hàng,Trung bình,Cung cấp thông tin chi tiết dựa trên dữ liệu,1,4,5,4,1,1,4,4,3,5,4,3,2,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,18-34,6-9 năm,Nhân sự,Học máy để phân tích dữ liệu,Hiệu quả,Giảm khối lượng công việc thủ công,5,5,2,3,2,5,5,4,2,5,2,3,3,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nữ,18-34,1-3 năm,Khác,Trò chuyện với chatbot và hỗ trợ khách hàng,Kém hiệu quả,Cải thiện hiệu quả,3,3,5,3,4,1,2,4,5,5,4,2,1,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,35-44,hơn 9 năm,Nhân sự,Phân tích dự đoán,Trung bình,Giảm khối lượng công việc thủ công,4,5,2,5,2,2,5,3,5,1,3,3,2,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,35-44,1-3 năm,Tài chính,Tự động hóa quy trình (RPA),Hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,3,2,3,4,3,3,4,4,4,2,3,4,Trung lập,Cung cấp đào tạo bổ sung
+Nữ,18-34,1-3 năm,Marketing,Học máy để phân tích dữ liệu,Hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,1,3,5,2,4,1,3,5,2,3,2,4,3,Không ủng hộ,Tăng ngân sách bảo trì AI
+Nữ,18-34,hơn 9 năm,Tài chính,Học máy để phân tích dữ liệu,Rất kém hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,3,2,5,1,3,5,3,3,4,3,5,1,5,Không ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,18-34,3-6 năm,Khác,Học máy để phân tích dữ liệu,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,2,2,2,3,3,3,3,3,4,5,3,4,5,Không ủng hộ,Cung cấp đào tạo bổ sung
+Nữ,18-34,3-6 năm,Công nghệ thông tin,Trò chuyện với chatbot và hỗ trợ khách hàng,Trung bình,Cải thiện hiệu quả,5,4,5,2,4,2,2,4,5,2,4,3,3,Ủng hộ,Tăng ngân sách bảo trì AI
+Nữ,45 tuổi trở lên,3-6 năm,Công nghệ thông tin,Trò chuyện với chatbot và hỗ trợ khách hàng,Rất kém hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,5,2,2,4,4,3,4,2,3,4,5,2,5,Trung lập,Cải thiện chất lượng dữ liệu
+Nữ,35-44,3-6 năm,Tài chính,Khác,Hiệu quả,Cải thiện hiệu quả,3,4,5,3,4,3,2,1,2,3,2,4,4,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,18-34,3-6 năm,Tài chính,Phân tích dự đoán,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,2,4,5,3,1,1,2,4,1,5,4,4,4,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,18-34,3-6 năm,Khác,Học máy để phân tích dữ liệu,Kém hiệu quả,Cải thiện hiệu quả,3,2,1,4,3,5,4,5,1,4,5,3,1,Trung lập,Cung cấp đào tạo bổ sung
+Nam,45 tuổi trở lên,1-3 năm,Marketing,Trò chuyện với chatbot và hỗ trợ khách hàng,Trung bình,Giảm khối lượng công việc thủ công,2,2,4,3,5,5,5,5,2,4,5,1,4,Ủng hộ,Khác
+Nữ,35-44,6-9 năm,Công nghệ thông tin,Học máy để phân tích dữ liệu,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,5,3,5,5,2,2,4,4,3,3,4,3,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nam,18-34,3-6 năm,Khác,Nhận dạng hình ảnh hoặc giọng nói,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,3,3,2,3,4,3,3,3,4,1,2,5,1,Không ủng hộ,Cung cấp đào tạo bổ sung
+Nam,18-34,6-9 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Rất kém hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,2,1,4,2,4,3,5,3,1,2,3,2,3,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,18-34,6-9 năm,Tài chính,Phân tích dự đoán,Rất kém hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,1,3,3,3,5,3,3,1,4,5,4,4,2,Trung lập,Tăng cường giám sát và trách nhiệm giải trình
+Nam,35-44,1-3 năm,Công nghệ thông tin,Phân tích dự đoán,Rất hiệu quả,Giảm khối lượng công việc thủ công,2,2,1,5,5,2,5,1,3,5,3,3,2,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nữ,35-44,6-9 năm,Công nghệ thông tin,Học máy để phân tích dữ liệu,Hiệu quả,Giảm khối lượng công việc thủ công,5,3,3,3,1,4,2,4,3,3,4,4,3,Ủng hộ,Cung cấp đào tạo bổ sung
+Nam,18-34,1-3 năm,Tài chính,Học máy để phân tích dữ liệu,Kém hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,5,4,4,2,2,5,3,5,2,3,3,5,3,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nữ,18-34,1-3 năm,Marketing,Khác,Rất hiệu quả,Giảm khối lượng công việc thủ công,2,4,4,2,2,5,5,2,1,5,4,2,3,Không ủng hộ,Khác
+Nữ,18-34,hơn 9 năm,Công nghệ thông tin,Nhận dạng hình ảnh hoặc giọng nói,Rất kém hiệu quả,Giảm khối lượng công việc thủ công,3,5,2,2,3,4,3,3,1,5,3,3,5,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nữ,45 tuổi trở lên,1-3 năm,Tài chính,Trò chuyện với chatbot và hỗ trợ khách hàng,Rất hiệu quả,Cải thiện hiệu quả,3,2,2,5,2,2,3,4,5,5,2,4,2,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,18-34,3-6 năm,Nhân sự,Trò chuyện với chatbot và hỗ trợ khách hàng,Rất hiệu quả,Giảm khối lượng công việc thủ công,2,5,3,1,2,4,1,5,3,4,3,4,2,Trung lập,Khác
+Nữ,18-34,hơn 9 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Rất kém hiệu quả,Cải thiện hiệu quả,1,2,1,3,4,1,5,1,2,4,3,3,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nữ,18-34,3-6 năm,Nhân sự,Học máy để phân tích dữ liệu,Hiệu quả,Cải thiện hiệu quả,3,2,3,1,1,5,3,4,2,3,4,5,4,Ủng hộ,Tăng ngân sách bảo trì AI
+Nữ,35-44,6-9 năm,Công nghệ thông tin,Khác,Trung bình,Cung cấp thông tin chi tiết dựa trên dữ liệu,5,5,5,5,2,5,3,5,4,3,1,3,5,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,35-44,3-6 năm,Tài chính,Khác,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,5,1,1,2,5,1,2,2,1,1,5,3,4,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,18-34,1-3 năm,Công nghệ thông tin,Khác,Hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,5,3,3,5,4,5,2,3,3,2,5,3,1,Ủng hộ,Cung cấp đào tạo bổ sung
+Nữ,18-34,6-9 năm,Nhân sự,Khác,Rất kém hiệu quả,Cải thiện hiệu quả,3,1,5,5,4,5,2,5,1,3,4,3,1,Không ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,35-44,3-6 năm,Khác,Học máy để phân tích dữ liệu,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,5,1,3,5,1,3,4,3,3,2,2,4,2,Trung lập,Tăng cường giám sát và trách nhiệm giải trình
+Nữ,45 tuổi trở lên,3-6 năm,Nhân sự,Trò chuyện với chatbot và hỗ trợ khách hàng,Trung bình,Cung cấp thông tin chi tiết dựa trên dữ liệu,3,5,3,2,3,5,2,5,4,5,2,5,4,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,18-34,3-6 năm,Tài chính,Tự động hóa quy trình (RPA),Kém hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,3,3,3,3,3,3,5,3,3,5,2,4,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,18-34,3-6 năm,Công nghệ thông tin,Học máy để phân tích dữ liệu,Kém hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,5,1,4,3,3,1,4,5,1,2,3,3,1,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nữ,18-34,6-9 năm,Marketing,Tự động hóa quy trình (RPA),Rất hiệu quả,Cải thiện hiệu quả,2,3,2,3,2,2,3,5,3,5,4,3,3,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,35-44,hơn 9 năm,Tài chính,Học máy để phân tích dữ liệu,Trung bình,Giảm khối lượng công việc thủ công,2,2,2,5,5,1,4,4,5,2,3,1,5,Trung lập,Tăng ngân sách bảo trì AI
+Nam,18-34,3-6 năm,Khác,Phân tích dự đoán,Kém hiệu quả,Giảm khối lượng công việc thủ công,3,3,3,4,2,2,4,4,5,5,2,2,4,Ủng hộ,Khác
+Nam,18-34,1-3 năm,Khác,Nhận dạng hình ảnh hoặc giọng nói,Kém hiệu quả,Giảm khối lượng công việc thủ công,3,5,4,4,3,2,5,1,2,5,3,3,5,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,35-44,6-9 năm,Công nghệ thông tin,Trò chuyện với chatbot và hỗ trợ khách hàng,Rất hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,2,2,2,3,2,5,4,2,4,3,4,4,5,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nữ,18-34,3-6 năm,Công nghệ thông tin,Phân tích dự đoán,Trung bình,Cải thiện hiệu quả,2,4,1,3,3,4,3,4,4,2,3,5,3,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,18-34,hơn 9 năm,Tài chính,Tự động hóa quy trình (RPA),Hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,4,3,3,1,3,1,1,5,3,1,5,4,5,Không ủng hộ,Cung cấp đào tạo bổ sung
+Nữ,35-44,hơn 9 năm,Khác,Tự động hóa quy trình (RPA),Rất hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,4,1,4,3,2,2,2,5,3,3,3,4,2,Trung lập,Cải thiện chất lượng dữ liệu
+Nữ,18-34,hơn 9 năm,Công nghệ thông tin,Khác,Trung bình,Giảm khối lượng công việc thủ công,4,2,4,5,4,5,2,3,1,5,3,2,4,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nữ,18-34,6-9 năm,Khác,Phân tích dự đoán,Hiệu quả,Giảm khối lượng công việc thủ công,3,5,5,2,4,5,4,5,4,5,5,2,5,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,18-34,6-9 năm,Khác,Nhận dạng hình ảnh hoặc giọng nói,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,3,1,3,4,4,5,3,5,5,3,4,3,4,Ủng hộ,Cung cấp đào tạo bổ sung
+Nam,18-34,1-3 năm,Tài chính,Trò chuyện với chatbot và hỗ trợ khách hàng,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,5,4,2,2,2,5,5,1,2,3,2,1,5,Ủng hộ,Tăng ngân sách bảo trì AI
+Nam,45 tuổi trở lên,1-3 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Rất hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,3,2,5,2,4,5,5,2,3,2,4,4,4,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nữ,35-44,6-9 năm,Công nghệ thông tin,Phân tích dự đoán,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,4,2,4,3,1,1,3,2,1,2,5,2,2,Trung lập,Tăng ngân sách bảo trì AI
+Nữ,45 tuổi trở lên,1-3 năm,Marketing,Nhận dạng hình ảnh hoặc giọng nói,Kém hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,4,5,1,2,2,1,4,5,3,3,2,5,2,Không ủng hộ,Cung cấp đào tạo bổ sung
+Nam,18-34,6-9 năm,Nhân sự,Tự động hóa quy trình (RPA),Trung bình,Giảm khối lượng công việc thủ công,3,1,3,3,2,4,4,1,2,3,3,1,3,Trung lập,Khác
+Nam,18-34,3-6 năm,Nhân sự,Tự động hóa quy trình (RPA),Rất kém hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,1,3,3,5,3,5,3,3,2,1,1,4,4,Ủng hộ,Tăng ngân sách bảo trì AI
+Nam,18-34,6-9 năm,Nhân sự,Học máy để phân tích dữ liệu,Kém hiệu quả,Cải thiện hiệu quả,3,5,2,3,5,3,3,3,5,3,4,3,3,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,35-44,1-3 năm,Công nghệ thông tin,Trò chuyện với chatbot và hỗ trợ khách hàng,Hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,5,4,3,5,2,3,4,3,5,3,5,4,1,Không ủng hộ,Tăng ngân sách bảo trì AI
+Nam,35-44,1-3 năm,Marketing,Học máy để phân tích dữ liệu,Trung bình,Cải thiện hiệu quả,5,3,3,5,4,5,2,5,3,5,2,5,4,Ủng hộ,Cung cấp đào tạo bổ sung
+Nam,18-34,1-3 năm,Công nghệ thông tin,Nhận dạng hình ảnh hoặc giọng nói,Rất hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,1,2,2,2,4,3,4,5,3,5,3,3,1,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,45 tuổi trở lên,3-6 năm,Khác,Học máy để phân tích dữ liệu,Trung bình,Cải thiện hiệu quả,4,4,2,5,4,4,5,4,4,2,3,4,5,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,35-44,3-6 năm,Công nghệ thông tin,Trò chuyện với chatbot và hỗ trợ khách hàng,Hiệu quả,Giảm khối lượng công việc thủ công,3,5,3,5,4,4,2,5,5,4,3,5,3,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nam,45 tuổi trở lên,1-3 năm,Tài chính,Phân tích dự đoán,Trung bình,Cải thiện hiệu quả,2,3,5,2,2,2,5,1,2,3,3,5,4,Trung lập,Khác
+Nam,18-34,hơn 9 năm,Nhân sự,Học máy để phân tích dữ liệu,Rất hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,4,4,4,3,3,1,4,3,5,2,1,3,3,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,35-44,hơn 9 năm,Nhân sự,Trò chuyện với chatbot và hỗ trợ khách hàng,Kém hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,2,5,5,2,4,2,2,5,5,3,5,1,5,Không ủng hộ,Khác
+Nam,45 tuổi trở lên,6-9 năm,Tài chính,Khác,Kém hiệu quả,Giảm khối lượng công việc thủ công,3,2,2,3,2,5,3,3,5,2,2,1,1,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,45 tuổi trở lên,6-9 năm,Khác,Học máy để phân tích dữ liệu,Hiệu quả,Cải thiện hiệu quả,2,5,5,2,3,1,3,5,3,4,2,2,4,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,35-44,3-6 năm,Marketing,Học máy để phân tích dữ liệu,Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,3,2,1,3,2,3,5,2,2,3,3,3,2,Trung lập,Đầu tư vào các công cụ AI tốt hơn
+Nam,18-34,3-6 năm,Tài chính,Tự động hóa quy trình (RPA),Trung bình,Nâng cao hiệu quả trong giao tiếp với khách hàng,5,1,3,3,2,2,3,1,1,5,2,2,5,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,18-34,1-3 năm,Khác,Trò chuyện với chatbot và hỗ trợ khách hàng,Rất hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,4,3,4,3,3,4,5,5,2,2,3,2,4,Trung lập,Đầu tư vào các công cụ AI tốt hơn
+Nữ,18-34,hơn 9 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Trung bình,Giảm khối lượng công việc thủ công,4,3,4,5,4,2,5,4,2,1,5,2,3,Không ủng hộ,Cung cấp đào tạo bổ sung
+Nam,35-44,6-9 năm,Tài chính,Khác,Rất hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,2,3,4,4,1,3,4,4,1,4,4,4,3,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,18-34,3-6 năm,Khác,Trò chuyện với chatbot và hỗ trợ khách hàng,Rất kém hiệu quả,Cải thiện hiệu quả,4,5,3,5,5,5,5,5,5,1,3,3,1,Ủng hộ,Tăng ngân sách bảo trì AI
+Nam,18-34,3-6 năm,Khác,Phân tích dự đoán,Trung bình,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,4,2,5,1,1,4,1,3,5,3,3,5,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,45 tuổi trở lên,6-9 năm,Tài chính,Trò chuyện với chatbot và hỗ trợ khách hàng,Rất hiệu quả,Cải thiện hiệu quả,5,5,3,5,4,3,4,5,3,2,1,5,2,Trung lập,Đầu tư vào các công cụ AI tốt hơn
+Nam,35-44,hơn 9 năm,Công nghệ thông tin,Phân tích dự đoán,Hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,4,4,3,1,4,2,1,3,2,4,4,5,3,Trung lập,Đầu tư vào các công cụ AI tốt hơn
+Nam,35-44,6-9 năm,Nhân sự,Tự động hóa quy trình (RPA),Rất hiệu quả,Nâng cao hiệu quả trong giao tiếp với khách hàng,2,5,5,3,5,5,3,5,4,3,2,1,2,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,18-34,hơn 9 năm,Tài chính,Trò chuyện với chatbot và hỗ trợ khách hàng,Kém hiệu quả,Cải thiện hiệu quả,4,1,3,3,4,5,2,4,2,3,5,1,3,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,35-44,1-3 năm,Tài chính,Học máy để phân tích dữ liệu,Trung bình,Cải thiện hiệu quả,3,5,4,1,2,5,5,3,5,5,2,4,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,45 tuổi trở lên,3-6 năm,Tài chính,Khác,Hiệu quả,Giảm khối lượng công việc thủ công,5,4,5,4,2,5,2,4,3,2,3,2,3,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,35-44,3-6 năm,Công nghệ thông tin,Khác,Trung bình,Cải thiện hiệu quả,4,2,3,3,4,4,5,3,2,1,5,3,2,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,18-34,6-9 năm,Nhân sự,Tự động hóa quy trình (RPA),Rất hiệu quả,Giảm khối lượng công việc thủ công,1,2,5,3,3,5,5,2,5,4,4,2,3,Trung lập,Tăng ngân sách bảo trì AI
+Nam,18-34,1-3 năm,Công nghệ thông tin,Học máy để phân tích dữ liệu,Trung bình,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,3,4,2,4,4,3,3,4,4,4,3,5,3,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,45 tuổi trở lên,hơn 9 năm,Marketing,Phân tích dự đoán,Trung bình,Giảm khối lượng công việc thủ công,3,5,4,1,2,2,3,4,2,3,3,3,3,Không ủng hộ,Khác
+Nữ,35-44,6-9 năm,Tài chính,Học máy để phân tích dữ liệu,Hiệu quả,Cải thiện hiệu quả,4,4,4,4,3,3,5,3,5,1,5,2,2,Trung lập,Cải thiện chất lượng dữ liệu
+Nam,35-44,6-9 năm,Tài chính,Trò chuyện với chatbot và hỗ trợ khách hàng,Trung bình,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,3,5,3,3,3,3,5,2,3,4,3,5,3,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nữ,35-44,1-3 năm,Tài chính,Tự động hóa quy trình (RPA),Rất hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,3,5,4,5,5,3,5,3,2,5,3,4,5,Ủng hộ,Tăng ngân sách bảo trì AI
+Nữ,45 tuổi trở lên,6-9 năm,Nhân sự,Tự động hóa quy trình (RPA),Rất kém hiệu quả,Cải thiện hiệu quả,5,5,3,4,5,2,4,1,2,3,3,2,5,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nam,35-44,3-6 năm,Tài chính,Tự động hóa quy trình (RPA),Hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,2,3,1,5,3,2,1,2,4,4,5,5,5,Trung lập,Đầu tư vào các công cụ AI tốt hơn
+Nữ,35-44,hơn 9 năm,Khác,Khác,Rất hiệu quả,Cung cấp thông tin chi tiết dựa trên dữ liệu,4,3,5,3,4,4,4,3,2,1,3,3,3,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nam,18-34,1-3 năm,Marketing,Tự động hóa quy trình (RPA),Hiệu quả,Cải thiện hiệu quả,2,3,5,3,3,1,2,3,5,4,5,2,5,Trung lập,Đầu tư vào các công cụ AI tốt hơn
+Nữ,35-44,1-3 năm,Marketing,Học máy để phân tích dữ liệu,Rất hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,3,3,4,4,4,2,3,5,1,5,3,4,5,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nữ,45 tuổi trở lên,hơn 9 năm,Công nghệ thông tin,Nhận dạng hình ảnh hoặc giọng nói,Rất hiệu quả,Cải thiện hiệu quả,3,3,3,1,2,3,3,5,5,1,3,5,3,Không ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,18-34,3-6 năm,Tài chính,Khác,Rất kém hiệu quả,Cải thiện hiệu quả,3,3,3,5,3,2,1,3,4,5,3,4,3,Ủng hộ,Cung cấp đào tạo bổ sung
+Nam,35-44,1-3 năm,Khác,Tự động hóa quy trình (RPA),Rất hiệu quả,Giảm khối lượng công việc thủ công,3,3,3,3,2,2,2,2,5,3,3,5,5,Không ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
+Nam,35-44,hơn 9 năm,Tài chính,Khác,Hiệu quả,Giảm khối lượng công việc thủ công,3,2,2,3,2,2,1,4,2,2,5,1,3,Ủng hộ,Cải thiện chất lượng dữ liệu
+Nữ,35-44,3-6 năm,Marketing,Tự động hóa quy trình (RPA),Rất kém hiệu quả,Giảm khối lượng công việc thủ công,3,4,2,3,3,1,1,4,2,4,3,2,1,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nữ,35-44,3-6 năm,Nhân sự,Học máy để phân tích dữ liệu,Kém hiệu quả,Giảm khối lượng công việc thủ công,4,5,5,3,3,2,2,3,3,1,3,3,3,Ủng hộ,Đầu tư vào các công cụ AI tốt hơn
+Nam,35-44,hơn 9 năm,Công nghệ thông tin,Tự động hóa quy trình (RPA),Trung bình,Cải thiện hiệu quả,3,1,4,5,5,4,3,5,5,3,2,4,4,Trung lập,Cung cấp đào tạo bổ sung
+Nam,18-34,1-3 năm,Công nghệ thông tin,Nhận dạng hình ảnh hoặc giọng nói,Trung bình,Cải thiện hiệu quả,2,3,4,1,3,1,4,4,2,4,5,4,5,Không ủng hộ,Cải thiện chất lượng dữ liệu
+Nam,45 tuổi trở lên,3-6 năm,Công nghệ thông tin,Nhận dạng hình ảnh hoặc giọng nói,Rất hiệu quả,Cải thiện hiệu quả,1,1,3,4,2,4,5,2,3,5,3,1,1,Ủng hộ,Khác
+Nam,18-34,1-3 năm,Tài chính,Học máy để phân tích dữ liệu,Kém hiệu quả,Hiểu sâu hơn về nhu cầu và sở thích của khách hàng,3,4,3,2,4,5,2,5,1,3,2,3,3,Trung lập,Tăng cường giám sát và trách nhiệm giải trình
+Nam,18-34,1-3 năm,Tài chính,Trò chuyện với chatbot và hỗ trợ khách hàng,Rất kém hiệu quả,Cải thiện hiệu quả,5,3,3,5,5,3,3,2,2,2,1,3,3,Ủng hộ,Tăng cường giám sát và trách nhiệm giải trình
